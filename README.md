@@ -34,7 +34,7 @@ has_Children: Whether the person has children or not, where — 1: has children
 - toCoupon_GEQ25min: Driving distance to the restaurant/cafe/bar for using the coupon is greater than 25 minutes (0,1).
 - direction_same: Whether the restaurant/cafe/bar is in the same direction as the traveler’s current destination (0,1).
 - direction_opp: Whether the restaurant/cafe/bar is in the opposite direction as the user’s current destination (0,1).
-- Accept(Y/N?): Target column( whether user will accept the coupon or not? )
+- Accept(Y/N?): Target column( whether user will accept the coupon or not? ).
 
 **Models Used**
 
@@ -55,3 +55,9 @@ has_Children: Whether the person has children or not, where — 1: has children
 - The XGBoost model delivered the highest scores in all the performance criteria.
 - Hyperparameter tuning helped increase the performance ( from 72.57% to 75.64% ) of the model by 4.23%.
 - The performance can further be improved. However, due to computational cost, the user is not able to test out further parameters.
+
+**Disclaimer**
+
+- This project utilizes a dataset provided by **Learnbay**, an institute where I am currently studying Data Science. The dataset is being used purely for educational purposes as part of my learning journey.
+- **I do not own the dataset**; it was provided to me for academic use.
+- I would like to acknowledge **Learnbay** for providing this dataset and supporting my learning in the field of data science.
