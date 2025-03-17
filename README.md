@@ -58,6 +58,6 @@ has_Children: Whether the person has children or not, where — 1: has children
 
 **Disclaimer**
 
-- This project utilizes a dataset provided by **Learnbay**, an institute where I am currently studying Data Science. The dataset is being used purely for educational purposes as part of my learning journey.
-- **I do not own the dataset**; it was provided to me for academic use.
-- I would like to acknowledge **Learnbay** for providing this dataset and supporting my learning in the field of data science.
+- This project utilises a dataset provided by **Learnbay**, an institute where I am currently studying Data Science.
+- **I do not own the dataset**; it was provided to me for academic use. It is being used purely for educational purposes as part of my learning journey.
+- I would like to acknowledge Learnbay for providing this dataset and supporting my learning in the field of data science.
